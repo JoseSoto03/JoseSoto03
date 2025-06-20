@@ -1,5 +1,5 @@
 ![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/de995001-1fc7-4954-8131-694d0df17888)
-<h1 align="center">Hi! my name is Jose Jaid Lopez</h1>
+<h1 align="center">Hello, my name is Jose Jaid Lopez</h1>
 <h3 align="center">Data Science Enthusiast | Sharing projects on data analysis, visualization, and machine learning. Always pushing to learn more.</h3>
 
 - 🌱 I’m currently learning **Python, pandas, numpy and everything related to data science.**
